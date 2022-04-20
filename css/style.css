@@ -1,0 +1,13 @@
+main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider-container {
+    width: 50vw;
+    height: 50vh;
+    background-color: lightblue;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.466), 0 0 0 10px #000; /* direita, baixo, espalhamento*/
+}
